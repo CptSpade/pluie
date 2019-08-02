@@ -12,4 +12,4 @@ try:
         print(i)
     input()
 except:
-    print("T'es sûr que t'as bien écrit ?")
+    print("Probablement mauvais input !")
